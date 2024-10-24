@@ -3,7 +3,7 @@ The K-Nearest Neighbors (KNN) project is typically a machine learning or data an
 KNN Project.
 
 Importing Dataset:
-Using one of the data manipulation libraries in Python (for example, pandas), read the CSV file as input.
+Using one of the data manipulation libraries in Python ( pandas), read the CSV file as input.
 
 Preprocessing:
 EDA (Exploratory Data Analysis):
